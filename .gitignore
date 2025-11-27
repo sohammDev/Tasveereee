@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+.next/
+out/
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env*.local
+
+# Vercel
+.vercel
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.backup
+style.css.backup
