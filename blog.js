@@ -56,25 +56,57 @@ document.addEventListener('DOMContentLoaded', () => {
                 <p>These images remind me why I fell in love with photography—the ability to freeze fleeting moments of pure joy and wonder.</p>
             `
         },
+
+
         {
-            id: 3,
-            image: 'assets/gallery/2.jpg',
-            date: 'September 2024',
-            title: 'Urban Exploration',
-            excerpt: 'Exploring the hidden corners of the city, finding beauty in the mundane. Every street has a story waiting to be told through photography.',
+            id: 2,
+            image: 'assets/gallery/ganpati/blog.jpg',
+            date: 'October 2024',
+            title: 'Ganesh Aagman in Mumbai',
+            excerpt: 'Witnessing the grand arrival of Lord Ganesh in Mumbai—a celebration of faith, devotion, and the vibrant spirit of the city during Ganesh Chaturthi.',
             images: [
-                'assets/gallery/2.jpg',
-                'assets/gallery/6.jpg',
-                'assets/gallery/chath 1.jpg'
+                'assets/gallery/ganpati/1.jpg',
+                'assets/gallery/ganpati/2.jpg',
+                'assets/gallery/ganpati/3.jpg'
             ],
             content: `
-                <p>Cities are living, breathing organisms with countless stories hidden in plain sight. My urban exploration series focuses on finding beauty in the everyday—the play of light on old buildings, the patterns in architecture, and the human element that brings it all to life.</p>
+                <p>Ganesh Chaturthi in Mumbai is not just a festival—it's an emotion, a celebration that transforms the entire city into a canvas of devotion and joy. Photographing the Ganesh Aagman (arrival) was one of the most exhilarating experiences of my photography journey.</p>
                 
-                <p>I spent weeks wandering the streets, observing how light changes throughout the day and how people interact with their environment. The key was to look beyond the obvious tourist spots and find the authentic character of the city.</p>
+                <p>The streets come alive with the sound of dhol-tasha, the air thick with the fragrance of flowers and incense. From the grand pandals in Lalbaug and Girgaon to the intimate household celebrations, every corner of Mumbai resonates with "Ganpati Bappa Morya!"</p>
                 
-                <p>Street photography requires a different mindset. You need to be quick, decisive, and respectful. I always try to capture candid moments that tell a story about the place and its people.</p>
+                <p>What struck me most was the sheer scale of devotion. Thousands of people gathering to welcome their beloved Ganpati, the elaborate decorations, the artistic creativity in each idol—every element told a story of faith and community. I captured the towering idols, the intricate craftsmanship, and the pure joy on devotees' faces.</p>
                 
-                <p>This project taught me that extraordinary images can be found in the most ordinary places—you just need to train your eye to see them.</p>
+                <p>The technical challenge was immense—shooting in crowded spaces, managing the dynamic lighting from decorative lights, and capturing candid moments amidst the chaos. But every challenge was worth it when I saw the final images that truly captured the essence of Mumbai's Ganesh festival.</p>
+                
+                <p>This series is a tribute to Mumbai's spirit, to the artisans who create these magnificent idols, and to the millions who celebrate with unwavering devotion. Through my lens, I tried to preserve the magic of Ganesh Aagman—a celebration that unites the city in faith, joy, and togetherness.</p>
+            `
+        },
+
+        {
+            id: 3,
+            image: 'assets/gallery/innocence/1.jpg',
+            date: 'September 2024',
+            title: 'Freedom & Confinement: A Street Story',
+            excerpt: 'A powerful contrast captured on Mumbai streets—children playing freely despite poverty, while a privileged child looks trapped behind glass. Sometimes happiness isn\'t about what you have.',
+            images: [
+                'assets/gallery/innocence/1.jpg',
+                'assets/gallery/innocence/2.jpg',
+                'assets/gallery/innocence/3.jpg'
+            ],
+            content: `
+                <p>This series captures one of the most profound moments I've experienced as a street photographer—a stark contrast that made me question everything about happiness, freedom, and privilege.</p>
+                
+                <p>On the streets of Mumbai, I photographed children who had nothing material to their names. They were beggars, living day to day, yet their faces radiated pure, unbridled joy. They played freely on the streets, laughed without inhibition, and found happiness in the simplest things—a game with stones, running barefoot, the companionship of friends.</p>
+                
+                <p>Then, in the same frame of time and space, I captured a child in a school bus. Well-dressed, presumably from a privileged background, with access to education and comfort. But through the window, his face told a different story—one of confinement, of being caged, of a childhood structured and controlled.</p>
+                
+                <p><strong>The Paradox of Freedom:</strong> The street children, despite their poverty, possessed something invaluable—freedom. Freedom to play, to explore, to be children. Meanwhile, the child behind the glass, despite all material advantages, seemed trapped in a system of schedules, expectations, and invisible bars.</p>
+                
+                <p><strong>What This Taught Me:</strong> This series isn't about romanticizing poverty or criticizing privilege. It's about recognizing that happiness and freedom aren't always found where we expect them. Sometimes, those with the least possess the most—joy, resilience, and an unbreakable spirit.</p>
+                
+                <p>As a photographer, my role isn't just to capture images, but to tell stories that make us think, question, and reflect. These photographs challenge our assumptions about what it means to be truly free, truly happy, and truly alive.</p>
+                
+                <p>The streets taught me that childhood should be about freedom, laughter, and discovery—not confinement, pressure, and conformity. Perhaps we all need to learn from those children playing freely on the streets, finding joy in the moment, unburdened by the weight of expectations.</p>
             `
         },
         {

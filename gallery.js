@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { src: 'assets/gallery/5.jpg', title: 'Rainy Moments' },
         { src: 'assets/gallery/6.jpg', title: 'New Angles' },
         { src: 'assets/hero_bg_final.jpg', title: 'Atmospheric' },
-        { src: 'assets/about.png', title: 'Portrait' },
+        { src: 'assets/gallery/4.jpg', title: 'Portrait' },
         // Add more images here as needed
     ];
 
