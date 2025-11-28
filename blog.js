@@ -85,8 +85,8 @@ document.addEventListener('DOMContentLoaded', () => {
             excerpt: 'Sometimes changing your perspective can reveal entirely new worlds. This shot taught me to always look at things from different angles.',
             images: [
                 'assets/gallery/6.jpg',
-                'assets/gallery/3.jpg',
-                'assets/gallery/4.jpg'
+                'assets/gallery/3.JPG',
+                'assets/gallery/4.JPG'
             ],
             content: `
                 <p>Perspective is everything in photography. The same subject can tell completely different stories depending on the angle, distance, and framing you choose. This series explores how changing your viewpoint can transform the ordinary into the extraordinary.</p>
@@ -100,14 +100,14 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             id: 5,
-            image: 'assets/gallery/4.jpg',
+            image: 'assets/gallery/4.JPG',
             date: 'July 2024',
             title: 'Capturing Vibes',
             excerpt: 'Photography isn\'t just about what you see, it\'s about what you feel. This image captures a mood, a moment, a vibe that resonates with the soul.',
             images: [
-                'assets/gallery/republic day/1.jpg',
-                'assets/gallery/republic day/2.jpg',
-                'assets/gallery/republic day/3.jpg'
+                'assets/gallery/republic day/1.JPG',
+                'assets/gallery/republic day/2.JPG',
+                'assets/gallery/republic day/3.JPG'
             ],
             content: `
                 <p>Some photographs transcend visual documentation—they capture a feeling, an atmosphere, a vibe. This series is about those intangible qualities that make an image resonate emotionally with viewers.</p>
@@ -128,7 +128,7 @@ document.addEventListener('DOMContentLoaded', () => {
             images: [
                 'assets/gallery/5.jpg',
                 'assets/gallery/6.jpg',
-                'assets/gallery/3.jpg'
+                'assets/gallery/3.JPG'
             ],
             content: `
                 <p>Rain transforms the world into a photographer's playground. The wet surfaces create reflections, the diffused light softens everything, and the atmosphere becomes charged with emotion and drama.</p>
