@@ -47,22 +47,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 <p>What struck me most was the dedication of the devotees. Standing in the water for hours, offering prayers to the setting and rising sun, their faith was palpable. As a photographer, I tried to capture not just the visuals, but the emotion and spirituality of the moment.</p>
                 
                 <p>The technical challenge was balancing the harsh sunlight with the shadows. I used a combination of natural light and careful positioning to ensure the subjects were well-lit while maintaining the dramatic atmosphere. The reflections in the water added an extra dimension to the compositions.</p>
-                
-                <p>This series taught me that photography is not just about technical perfection—it's about respecting the moment and the people you're photographing. Every click was a prayer in itself.</p>
-            `
-        },
-        {
-            id: 2,
-            image: 'assets/gallery/3.jpg',
-            date: 'October 2024',
-            title: 'Innocence Captured',
-            excerpt: 'There\'s something magical about photographing children. Their genuine expressions and unfiltered emotions tell stories that words cannot express.',
-            images: [
-                'assets/gallery/gudi padwa/padwa 1.jpg',
-                'assets/gallery/gudi padwa/padwa 2.jpg',
-                'assets/gallery/gudi padwa/padwa 3.jpg'
-            ],
-            content: `
                 <p>Children are the most honest subjects in photography. They don't pose, they don't pretend—they simply are. This authenticity creates images that resonate with viewers on a deep emotional level.</p>
                 
                 <p>During this shoot, I learned to be patient and observant. Instead of directing, I became invisible, allowing the children to play and express themselves naturally. The best shots came when they forgot about the camera entirely.</p>

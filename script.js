@@ -45,8 +45,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const galleryImages = [
         { src: 'assets/gallery/2.jpg', title: 'Captured Moment' },
         { src: 'assets/gallery/chath 1.jpg', title: 'Chath Festival' },
-        { src: 'assets/gallery/3.jpg', title: 'Portrait' },
-        { src: 'assets/gallery/4.jpg', title: 'Perspective' },
+        { src: 'assets/gallery/3.JPG', title: 'Portrait' },
+        { src: 'assets/gallery/4.JPG', title: 'Perspective' },
         { src: 'assets/gallery/5.jpg', title: 'Vibes' },
         { src: 'assets/gallery/6.jpg', title: 'Street Life' }
     ];

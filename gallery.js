@@ -31,8 +31,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const galleryImages = [
         { src: 'assets/gallery/chath 1.jpg', title: 'Chhath Puja Devotion' },
         { src: 'assets/gallery/2.jpg', title: 'Urban Perspectives' },
-        { src: 'assets/gallery/3.jpg', title: 'Innocence' },
-        { src: 'assets/gallery/4.jpg', title: 'Captured Vibes' },
+        { src: 'assets/gallery/3.JPG', title: 'Innocence' },
+        { src: 'assets/gallery/4.JPG', title: 'Captured Vibes' },
         { src: 'assets/gallery/5.jpg', title: 'Rainy Moments' },
         { src: 'assets/gallery/6.jpg', title: 'New Angles' },
         { src: 'assets/hero_bg_final.jpg', title: 'Atmospheric' },
