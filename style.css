@@ -140,6 +140,16 @@ ul {
     z-index: 102;
 }
 
+.menu-toggle {
+    display: none;
+    flex-direction: column;
+    gap: 6px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+}
+
 .bar {
     width: 30px;
     height: 2px;
@@ -834,6 +844,7 @@ ul {
     color: var(--secondary-text);
     font-size: 1.05rem;
 }
+
 /* Enhanced Navigation Bar Design */
 .header {
     background: rgba(10, 10, 10, 0.7) !important;
@@ -1247,39 +1258,91 @@ ul {
         grid-template-columns: 1fr;
         gap: 40px;
     }
-    
+
     .about-page-image-section {
         position: relative;
         top: 0;
     }
-    
+
     .skills-grid {
         grid-template-columns: 1fr;
     }
-    
+
     .about-page-heading {
         font-size: 2rem;
     }
-    
+
+    .about-gallery-grid {
+        grid-template-columns: 1fr;
+    }
+
     .about-gallery-grid {
         grid-template-columns: 1fr;
     }
 }
 
+@media (max-width: 480px) {
+    .header {
+        padding: 15px 20px !important;
+    }
 
-/* Remove Navigation Background Box */
-.header {
-    background: transparent !important;
-    backdrop-filter: none !important;
-    -webkit-backdrop-filter: none !important;
-    border-bottom: none !important;
-    box-shadow: none !important;
+    .logo {
+        font-size: 1.5rem !important;
+    }
+
+    .hero-title {
+        font-size: 2.5rem;
+    }
+
+    .hero-subtitle {
+        font-size: 0.9rem;
+        letter-spacing: 2px;
+    }
+
+    .btn {
+        padding: 12px 30px;
+        font-size: 0.8rem;
+    }
+
+    .section-title {
+        font-size: 2rem;
+    }
+
+    .page-title {
+        font-size: 2rem;
+    }
+
+    .gallery-grid,
+    .gallery-page-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .about-page-hero,
+    .gallery-page-hero,
+    .blog-hero {
+        padding: 80px 20px 40px;
+    }
+
+    .lightbox-close {
+        top: 20px;
+        right: 20px;
+        width: 40px;
+        height: 40px;
+        font-size: 24px;
+    }
+
+    .lightbox-prev,
+    .lightbox-next {
+        width: 40px;
+        height: 40px;
+        font-size: 24px;
+    }
+
+    .lightbox-prev {
+        left: 10px;
+    }
+
+    .lightbox-next {
+        right: 10px;
+    }
 }
-
-.header.scrolled {
-    background: transparent !important;
-    backdrop-filter: none !important;
-    box-shadow: none !important;
-    border-bottom: none !important;
-}
-
